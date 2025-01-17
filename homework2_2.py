@@ -1,6 +1,5 @@
 #task 9
-from math import factorial
-from turtledemo.penrose import start
+
 
 number_1 = 10
 for i in range(20):
